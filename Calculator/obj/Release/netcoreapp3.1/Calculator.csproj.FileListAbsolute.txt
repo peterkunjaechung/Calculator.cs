@@ -1,0 +1,10 @@
+/Users/peterchung/Projects/Calculator/Calculator/bin/Release/netcoreapp3.1/Calculator
+/Users/peterchung/Projects/Calculator/Calculator/bin/Release/netcoreapp3.1/Calculator.deps.json
+/Users/peterchung/Projects/Calculator/Calculator/bin/Release/netcoreapp3.1/Calculator.runtimeconfig.json
+/Users/peterchung/Projects/Calculator/Calculator/bin/Release/netcoreapp3.1/Calculator.runtimeconfig.dev.json
+/Users/peterchung/Projects/Calculator/Calculator/bin/Release/netcoreapp3.1/Calculator.dll
+/Users/peterchung/Projects/Calculator/Calculator/bin/Release/netcoreapp3.1/Calculator.pdb
+/Users/peterchung/Projects/Calculator/Calculator/obj/Release/netcoreapp3.1/Calculator.AssemblyInfoInputs.cache
+/Users/peterchung/Projects/Calculator/Calculator/obj/Release/netcoreapp3.1/Calculator.AssemblyInfo.cs
+/Users/peterchung/Projects/Calculator/Calculator/obj/Release/netcoreapp3.1/Calculator.dll
+/Users/peterchung/Projects/Calculator/Calculator/obj/Release/netcoreapp3.1/Calculator.pdb
